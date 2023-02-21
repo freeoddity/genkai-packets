@@ -1,0 +1,42 @@
+{
+    "actual_steps": [
+        0,
+        5
+    ],
+    "difficulty": 2,
+    "elapsed_time": -1676950603,
+    "energy_ball_counts_in_boss_battle": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "genkai_battle_id": 3,
+    "genkai_battle_schedule_id": 3,
+    "has_player_been_taken_damage": false,
+    "is_cheat_user": false,
+    "is_cleared": false,
+    "is_defeated_boss": false,
+    "is_player_special_attack_only": true,
+    "max_damage_to_boss": 0,
+    "min_turn_in_boss_battle": null,
+    "passed_round_ids": null,
+    "quest_started_at_ms": 1676950610854,
+    "reason": "sugoroku_cancel",
+    "steps": [
+        0,
+        5
+    ],
+    "token": "drYY77Rxm51U0EuY8igLpg==",
+    "total_damage_to_enemy": 0,
+    "total_damage_to_player": 0
+}

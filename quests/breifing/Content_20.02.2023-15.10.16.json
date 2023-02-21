@@ -1,0 +1,866 @@
+{
+    "supporters": [],
+    "cpu_supporters": [
+        {
+            "id": 1009,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 1024291,
+                "exp": 5000000,
+                "skill_lv": 10,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1010,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 9517181,
+                "exp": 15000000,
+                "skill_lv": 15,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1011,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 1022631,
+                "exp": 30000000,
+                "skill_lv": 20,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1012,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 9518491,
+                "exp": 30000000,
+                "skill_lv": 25,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1013,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 1017121,
+                "exp": 5000000,
+                "skill_lv": 10,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1014,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 1024441,
+                "exp": 5000000,
+                "skill_lv": 10,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1015,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 9513541,
+                "exp": 15000000,
+                "skill_lv": 15,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1016,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 1019821,
+                "exp": 30000000,
+                "skill_lv": 20,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        },
+        {
+            "id": 1017,
+            "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "leader": {
+                "id": 0,
+                "card_id": 9513831,
+                "exp": 15000000,
+                "skill_lv": 15,
+                "awakening_route_id": null,
+                "is_favorite": false,
+                "is_released_potential": false,
+                "released_rate": 0.0,
+                "optimal_awakening_step": null,
+                "awakenings": [],
+                "unlocked_square_statuses": [],
+                "created_at": 1676923816,
+                "card_decoration_id": null,
+                "exchangeable_item_id": null,
+                "potential_parameters": [],
+                "equipment_skill_items": [],
+                "link_skill_lvs": []
+            },
+            "achievement_id": null,
+            "rank": 100,
+            "is_friend": false,
+            "is_dummy": false,
+            "login_at": 1676923816,
+            "gasha_point": 0,
+            "is_cpu_supporter": true,
+            "is_cooperation_inviter": false
+        }
+    ],
+    "teaming_power_weight": {
+        "attack": 1.2,
+        "defense": 1.5,
+        "hp": 1,
+        "link_skill": 500,
+        "energy": 10000,
+        "skill_lv": 100
+    },
+    "ranking_enabled": true,
+    "last_deck_cards": [
+        {
+            "user_card_id": 1619764439,
+            "card_id": 1004840,
+            "num": 0,
+            "exp": 0,
+            "released_rate": 0.0,
+            "optimal_awakening_step": null,
+            "card_decoration_id": null,
+            "awakenings": []
+        }
+    ],
+    "is_cpu_only": false,
+    "last_deck_bgm_filename": null,
+    "genkai_battle": {
+        "genkai_battle_id": 3,
+        "genkai_battle_schedule_id": 3,
+        "previous_score": 30,
+        "previous_term": {
+            "best_score": 0
+        },
+        "genkai_gimmicks": [
+            {
+                "id": 256,
+                "genkai_gimmick_sub_category_id": 1,
+                "point": 90,
+                "priority": 100,
+                "description": "\u300c\u795e\u6b21\u5143\u300d\u30ab\u30c6\u30b4\u30ea\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 31,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 31,
+                        "type": "QuestLimitation::CardQuestLimitation::AllowedCategoryQuestLimitation",
+                        "description": "\u300c\u795e\u6b21\u5143\u300d\u30ab\u30c6\u30b4\u30ea\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "allowed_category_ids": [
+                                8
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 257,
+                "genkai_gimmick_sub_category_id": 1,
+                "point": 70,
+                "priority": 100,
+                "description": "\u300c\u8d85\u30b5\u30a4\u30e4\u4eba\u300d\u30ab\u30c6\u30b4\u30ea\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 30,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 30,
+                        "type": "QuestLimitation::CardQuestLimitation::AllowedCategoryQuestLimitation",
+                        "description": "\u300c\u8d85\u30b5\u30a4\u30e4\u4eba\u300d\u30ab\u30c6\u30b4\u30ea\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "allowed_category_ids": [
+                                36
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 258,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 120,
+                "priority": 100,
+                "description": "\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 34,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 34,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                3,
+                                13,
+                                23
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 259,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 110,
+                "priority": 100,
+                "description": "\u77e5\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 33,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 33,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u77e5\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                2,
+                                12,
+                                22
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 260,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 70,
+                "priority": 100,
+                "description": "\u901f\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 32,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 32,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u901f\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                0,
+                                10,
+                                20
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 261,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 20,
+                "priority": 100,
+                "description": "\u901f\u30fb\u77e5\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 35,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 35,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u901f\u30fb\u77e5\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                0,
+                                2,
+                                10,
+                                12,
+                                20,
+                                22
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 262,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 20,
+                "priority": 100,
+                "description": "\u901f\u30fb\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 36,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 36,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u901f\u30fb\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                0,
+                                3,
+                                10,
+                                13,
+                                20,
+                                23
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 263,
+                "genkai_gimmick_sub_category_id": 2,
+                "point": 20,
+                "priority": 100,
+                "description": "\u77e5\u30fb\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                "conditions": {
+                    "id": 37,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 37,
+                        "type": "QuestLimitation::CardQuestLimitation::OnlyElementQuestLimitation",
+                        "description": "\u77e5\u30fb\u529b\u5c5e\u6027\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u307f\u6311\u6226\u53ef\u80fd",
+                        "conditions": {
+                            "only_elements": [
+                                2,
+                                3,
+                                12,
+                                13,
+                                22,
+                                23
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "id": 264,
+                "genkai_gimmick_sub_category_id": 3,
+                "point": 70,
+                "priority": 100,
+                "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8350\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                "conditions": {
+                    "id": 38,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 38,
+                        "type": "QuestLimitation::TeamQuestLimitation::TotalCostQuestLimitation",
+                        "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8350\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                        "conditions": {
+                            "lower_limit": 0,
+                            "upper_limit": 350
+                        }
+                    }
+                }
+            },
+            {
+                "id": 265,
+                "genkai_gimmick_sub_category_id": 3,
+                "point": 50,
+                "priority": 100,
+                "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8400\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                "conditions": {
+                    "id": 39,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 39,
+                        "type": "QuestLimitation::TeamQuestLimitation::TotalCostQuestLimitation",
+                        "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8400\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                        "conditions": {
+                            "lower_limit": 0,
+                            "upper_limit": 400
+                        }
+                    }
+                }
+            },
+            {
+                "id": 266,
+                "genkai_gimmick_sub_category_id": 3,
+                "point": 20,
+                "priority": 100,
+                "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8500\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                "conditions": {
+                    "id": 40,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 40,
+                        "type": "QuestLimitation::TeamQuestLimitation::TotalCostQuestLimitation",
+                        "description": "\u30c8\u30fc\u30bf\u30eb\u30b3\u30b9\u30c8500\u4ee5\u4e0b\n(\u30d5\u30ec\u30f3\u30c9\u3092\u542b\u3080)",
+                        "conditions": {
+                            "lower_limit": 0,
+                            "upper_limit": 500
+                        }
+                    }
+                }
+            },
+            {
+                "id": 267,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u304c\u5fc5\u6bba\u6280\u3092\u5c01\u3058\u308b\u52b9\u679c\u3092\u7121\u52b9\u5316\u3059\u308b",
+                "conditions": {
+                    "id": 60006,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 268,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u304c\u6c17\u7d76\u72b6\u614b\u306b\u306a\u3089\u306a\u3044",
+                "conditions": {
+                    "id": 60007,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 269,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u304cATK\u30c0\u30a6\u30f3\u3092\u7121\u52b9\u5316\u3059\u308b",
+                "conditions": {
+                    "id": 10810,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 270,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u304cDEF\u30c0\u30a6\u30f3\u3092\u7121\u52b9\u5316\u3059\u308b",
+                "conditions": {
+                    "id": 11290,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 271,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 30,
+                "priority": 100,
+                "description": "\u6575\u304c\u901f \u8d85\u901f \u6975\u901f\u5c5e\u6027\u304b\u3089\u306e\u30c0\u30e1\u30fc\u30b8\u309250%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60047,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 272,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 30,
+                "priority": 100,
+                "description": "\u6575\u304c\u77e5 \u8d85\u77e5 \u6975\u77e5\u5c5e\u6027\u304b\u3089\u306e\u30c0\u30e1\u30fc\u30b8\u309250%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60048,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 273,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 30,
+                "priority": 100,
+                "description": "\u6575\u304c\u529b \u8d85\u529b \u6975\u529b\u5c5e\u6027\u304b\u3089\u306e\u30c0\u30e1\u30fc\u30b8\u309250%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60049,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 274,
+                "genkai_gimmick_sub_category_id": 4,
+                "point": 60,
+                "priority": 100,
+                "description": "\u6575\u306eATK\u304c350% DEF\u304c350%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60050,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 275,
+                "genkai_gimmick_sub_category_id": 5,
+                "point": 30,
+                "priority": 100,
+                "description": "\u6575\u304c\u30c0\u30e1\u30fc\u30b8\u309270%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60046,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 276,
+                "genkai_gimmick_sub_category_id": 5,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u304c\u30c0\u30e1\u30fc\u30b8\u309260%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60045,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 277,
+                "genkai_gimmick_sub_category_id": 5,
+                "point": 10,
+                "priority": 100,
+                "description": "\u6575\u304c\u30c0\u30e1\u30fc\u30b8\u309250%\u8efd\u6e1b\u3059\u308b",
+                "conditions": {
+                    "id": 60044,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 278,
+                "genkai_gimmick_sub_category_id": 7,
+                "point": 40,
+                "priority": 100,
+                "description": "\u6575\u306eATK\u304c300%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60051,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 279,
+                "genkai_gimmick_sub_category_id": 7,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u306eATK\u304c200%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60052,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 280,
+                "genkai_gimmick_sub_category_id": 7,
+                "point": 10,
+                "priority": 100,
+                "description": "\u6575\u306eATK\u304c100%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60053,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 281,
+                "genkai_gimmick_sub_category_id": 8,
+                "point": 40,
+                "priority": 100,
+                "description": "\u6575\u306eDEF\u304c800%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60054,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 282,
+                "genkai_gimmick_sub_category_id": 8,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u306eDEF\u304c600%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60055,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 283,
+                "genkai_gimmick_sub_category_id": 8,
+                "point": 10,
+                "priority": 100,
+                "description": "\u6575\u306eDEF\u304c400%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "id": 60056,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 284,
+                "genkai_gimmick_sub_category_id": 10,
+                "point": 40,
+                "priority": 100,
+                "description": "\u6575\u306eHP\u304c850%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "hp": 850,
+                    "type": "enemy_status_up"
+                }
+            },
+            {
+                "id": 285,
+                "genkai_gimmick_sub_category_id": 10,
+                "point": 20,
+                "priority": 100,
+                "description": "\u6575\u306eHP\u304c650%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "hp": 650,
+                    "type": "enemy_status_up"
+                }
+            },
+            {
+                "id": 286,
+                "genkai_gimmick_sub_category_id": 10,
+                "point": 10,
+                "priority": 100,
+                "description": "\u6575\u306eHP\u304c450%\u4e0a\u6607\u3059\u308b",
+                "conditions": {
+                    "hp": 450,
+                    "type": "enemy_status_up"
+                }
+            },
+            {
+                "id": 287,
+                "genkai_gimmick_sub_category_id": 17,
+                "point": 10,
+                "priority": 100,
+                "description": "\u6575\u304c100,000\u4ee5\u4e0b\u306e\u30c0\u30e1\u30fc\u30b8\u30920\u306b\u3059\u308b",
+                "conditions": {
+                    "id": 60020,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 288,
+                "genkai_gimmick_sub_category_id": 12,
+                "point": 20,
+                "priority": 100,
+                "description": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u5165\u308c\u66ff\u3048\u30921\u4f53\u30ed\u30c3\u30af\u3059\u308b",
+                "conditions": {
+                    "id": 60022,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 289,
+                "genkai_gimmick_sub_category_id": 15,
+                "point": 40,
+                "priority": 100,
+                "description": "\u5473\u65b9\u306e\u6c17\u529b\u3092-5\u3059\u308b\n(0\u672a\u6e80\u306b\u306f\u306a\u3089\u306a\u3044)",
+                "conditions": {
+                    "id": 60023,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 290,
+                "genkai_gimmick_sub_category_id": 15,
+                "point": 20,
+                "priority": 100,
+                "description": "\u5473\u65b9\u306e\u6c17\u529b\u3092-3\u3059\u308b\n(0\u672a\u6e80\u306b\u306f\u306a\u3089\u306a\u3044)",
+                "conditions": {
+                    "id": 60024,
+                    "type": "enemy_skills"
+                }
+            },
+            {
+                "id": 291,
+                "genkai_gimmick_sub_category_id": 16,
+                "point": 50,
+                "priority": 100,
+                "description": "\u30b5\u30dd\u30fc\u30c8\u30a2\u30a4\u30c6\u30e0\u306e\u6301\u3061\u8fbc\u307f\u4e0d\u53ef",
+                "conditions": {
+                    "id": 14,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 14,
+                        "type": "QuestLimitation::ItemQuestLimitation::ItemCapacityQuestLimitation",
+                        "description": "\u30b5\u30dd\u30fc\u30c8\u30a2\u30a4\u30c6\u30e0\u306e\u6301\u3061\u8fbc\u307f\u4e0d\u53ef",
+                        "conditions": {
+                            "capacity": 0
+                        }
+                    }
+                }
+            },
+            {
+                "id": 292,
+                "genkai_gimmick_sub_category_id": 16,
+                "point": 10,
+                "priority": 100,
+                "description": "\u30b5\u30dd\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc\u306e\u6301\u3061\u8fbc\u307f\u4e0d\u53ef",
+                "conditions": {
+                    "id": 13,
+                    "type": "genkai_quest_limitations",
+                    "limitation": {
+                        "id": 13,
+                        "type": "QuestLimitation::SupportMemoryQuestLimitation::ForbidSupportMemoryQuestLimitation",
+                        "description": "\u30b5\u30dd\u30fc\u30c8\u30e1\u30e2\u30ea\u30fc\u306e\u6301\u3061\u8fbc\u307f\u4e0d\u53ef",
+                        "conditions": {}
+                    }
+                }
+            }
+        ]
+    }
+}

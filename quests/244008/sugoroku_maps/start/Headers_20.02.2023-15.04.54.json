@@ -1,0 +1,21 @@
+{
+    "Method": "POST",
+    "Path": "/quests/244008/sugoroku_maps/start",
+    "Vers": "HTTP/1.1",
+    "Host": "ishin-production.aktsk.jp:443",
+    "X-DatabaseVersion": "1676427385",
+    "Accept": "*/*",
+    "Authorization": "MAC id=\"HMIvoadgRDjFMkrt9m4DrkOugybto5ei9cgsmptWXe5g/0uRrJT6U6RmUN4yRoYiMclGQGKh7+KxwNkfZfkyTA==\", nonce=\"1676923493:ad8f26fa85c2bd43a70e04fefa881957\", ts=\"1676923493\", mac=\"/uFVMp09zptaC9QCgt4qKbsl8HAe2rmQ8CCrGw1JX9s=\"",
+    "X-ClientVersion": "5.9.2-3207d9e3fa7144760c5af78cf13eba99cd33292bb348ac9128ddadec5dc0d041",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-us",
+    "Cache-Control": "no-cache",
+    "Content-Type": "application/json",
+    "Content-Length": "2200",
+    "X-AssetVersion": "1676424922",
+    "User-Agent": "BNGI0211/165.0 CFNetwork/1121.2.2 Darwin/19.3.0",
+    "X-APIToken": "qb_abPluIL9VNj31prKHoIy-Txj_Or_r-8VFRiyDVduL32KF1BAyaCv258PHfQrP",
+    "X-Platform": "ios",
+    "X-RequestVersion": "10",
+    "Connection": "keep-alive"
+}

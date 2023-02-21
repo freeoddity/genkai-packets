@@ -1,0 +1,50 @@
+{
+    "actual_steps": [
+        0,
+        6,
+        11
+    ],
+    "difficulty": 2,
+    "elapsed_time": -1676923823,
+    "energy_ball_counts_in_boss_battle": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "genkai_battle_id": 3,
+    "genkai_battle_schedule_id": 3,
+    "has_player_been_taken_damage": true,
+    "is_cheat_user": false,
+    "is_cleared": false,
+    "is_defeated_boss": false,
+    "is_player_special_attack_only": false,
+    "max_damage_to_boss": 0,
+    "min_turn_in_boss_battle": null,
+    "passed_round_ids": null,
+    "quest_started_at_ms": 1676923830924,
+    "reason": "gameover_cancel",
+    "scripts": [
+        {
+            "id": 2244083,
+            "status": 2
+        }
+    ],
+    "steps": [
+        0,
+        6,
+        11
+    ],
+    "token": "6TNiF0SlUwfzS3yRWpKD0g==",
+    "total_damage_to_enemy": 0,
+    "total_damage_to_player": 0
+}

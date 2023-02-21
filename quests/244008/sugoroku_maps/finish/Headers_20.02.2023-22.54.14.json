@@ -1,0 +1,20 @@
+{
+    "Method": "POST",
+    "Path": "/quests/244008/sugoroku_maps/finish",
+    "Vers": "HTTP/1.1",
+    "Host": "ishin-production.aktsk.jp:443",
+    "X-DatabaseVersion": "1676945852",
+    "Accept": "*/*",
+    "Authorization": "MAC id=\"Bv/JEuf21cFCfcpkpUTT5FhftavZeVrMPR5pUXj8zdRgMqwEobvWy9NQlP/30uwxuWCo/HMKg0oppXGiWHCgOQ==\", nonce=\"1676951654:ea67961d04f7efd409e7759043cb67f0\", ts=\"1676951654\", mac=\"Jr9qzwiwobOmaQHOb7uXh+2023YJqkrQA23H3xv1Okc=\"",
+    "X-ClientVersion": "5.9.2-3207d9e3fa7144760c5af78cf13eba99cd33292bb348ac9128ddadec5dc0d041",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Accept-Language": "en-us",
+    "Content-Type": "application/json",
+    "Content-Length": "792",
+    "X-AssetVersion": "1676944150",
+    "User-Agent": "BNGI0211/165.0 CFNetwork/1121.2.2 Darwin/19.3.0",
+    "X-Platform": "ios",
+    "Connection": "keep-alive",
+    "X-RequestVersion": "14"
+}

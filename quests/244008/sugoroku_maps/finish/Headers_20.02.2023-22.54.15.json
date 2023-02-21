@@ -1,0 +1,22 @@
+{
+    "Method": "POST",
+    "Path": "/quests/244008/sugoroku_maps/finish",
+    "Status": 200,
+    "Vers": "HTTP/1.1",
+    "Date": "Tue, 21 Feb 2023 03:54:15 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "nginx/1.18.0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "X-Download-Options": "noopen",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "ETag": "W/\"6efdabc97634e0558e2ef046a8b5d588\"",
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "X-Request-Id": "509d3941-7d65-423a-af0f-be4c172e1c40",
+    "X-Runtime": "0.204626",
+    "Content-Encoding": "gzip"
+}

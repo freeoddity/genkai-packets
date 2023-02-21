@@ -1,0 +1,66 @@
+{
+    "exp": 0,
+    "zeni": 0,
+    "required_zeni": 0,
+    "clear_time_ms": null,
+    "prev_record_time_ms": null,
+    "continue_count": 0,
+    "user_dragonball_sessions": [],
+    "user": {
+        "id": 1389601813,
+        "name": "\u30df\u30ec\u30b4",
+        "is_ondemand": false,
+        "rank": 64,
+        "exp": 949685,
+        "act": 924,
+        "boost_point": 0,
+        "act_max": 62,
+        "act_at": 1676950602,
+        "boost_at": 0,
+        "wallpaper_item_id": 0,
+        "achievement_id": null,
+        "mainpage_card_id": null,
+        "mainpage_user_card_id": null,
+        "mydata_subpage_visible": true,
+        "card_capacity": 20,
+        "total_card_capacity": 260,
+        "friends_capacity": 71,
+        "support_item_capacity": 3,
+        "is_support_item_capacity_extended": false,
+        "battle_energy": {
+            "energy": 0,
+            "recover_point_with_stone": 1,
+            "battle_at": 0,
+            "seconds_per_cure": 10800,
+            "max_recovery_count": 5,
+            "recovered_count": 0
+        },
+        "zeni": 21327999,
+        "gasha_point": 18700,
+        "exchange_point": 17425,
+        "stone": 63,
+        "tutorial": {
+            "progress": 999999,
+            "is_finished": true,
+            "contents_lv": 400
+        },
+        "is_potential_releaseable": true,
+        "processed_at": 1676951655
+    },
+    "friend_status": 6,
+    "missions": [],
+    "is_reviewable": false,
+    "boosted": false,
+    "cleared_difficulties": [
+        2
+    ],
+    "genkai_battle": {
+        "status": "success",
+        "is_score_updated": false,
+        "cleared_score": 0,
+        "previous_score": 30,
+        "previous_term": {
+            "best_score": 0
+        }
+    }
+}

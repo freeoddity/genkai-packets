@@ -1,0 +1,22 @@
+{
+    "Method": "GET",
+    "Path": "/quests/244008/briefing?difficulty=2&force_update=&team_num=1",
+    "Status": 200,
+    "Vers": "HTTP/1.1",
+    "Date": "Tue, 21 Feb 2023 03:36:09 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "nginx/1.18.0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "X-Download-Options": "noopen",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "ETag": "W/\"8fb8e94808836eb6fe3e95658420f108\"",
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "X-Request-Id": "7f84a513-19a2-4115-950d-1544afdb20af",
+    "X-Runtime": "0.306228",
+    "Content-Encoding": "gzip"
+}

@@ -1,0 +1,22 @@
+{
+    "Method": "POST",
+    "Path": "/quests/244008/sugoroku_maps/start",
+    "Status": 200,
+    "Vers": "HTTP/1.1",
+    "Date": "Mon, 20 Feb 2023 20:04:54 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "nginx/1.18.0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "X-Download-Options": "noopen",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "ETag": "W/\"8fde5e69eb28d3df622f96e0ad52958d\"",
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "X-Request-Id": "52cfc75b-ee67-46bc-89ea-11a49d826ee9",
+    "X-Runtime": "0.240008",
+    "Content-Encoding": "gzip"
+}

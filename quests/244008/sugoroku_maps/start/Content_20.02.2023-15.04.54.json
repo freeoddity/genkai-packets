@@ -1,0 +1,143 @@
+{
+    "bgm_filename": "",
+    "difficulty": 2,
+    "friend_id": 614534279,
+    "genkai_battle_id": 3,
+    "genkai_battle_schedule_id": 3,
+    "is_playing_script": true,
+    "selected_genkai_gimmick_ids": [
+        266,
+        292
+    ],
+    "selected_team_num": 128,
+    "support_items": [
+        {
+            "quantity": 1,
+            "support_item_id": 32301
+        },
+        {
+            "quantity": 1,
+            "support_item_id": 31502
+        },
+        {
+            "quantity": 1,
+            "support_item_id": 30505
+        }
+    ],
+    "support_leader": {
+        "awakening_route_id": 4591,
+        "card_decoration_id": 0,
+        "card_id": 1011681,
+        "equipment_skill_items": [
+            {
+                "equipment_skill_item_id": 1566,
+                "grade": "bronze",
+                "slot": 0
+            },
+            {
+                "equipment_skill_item_id": 1578,
+                "grade": "silver",
+                "slot": 0
+            },
+            {
+                "equipment_skill_item_id": 1597,
+                "grade": "gold",
+                "slot": 0
+            }
+        ],
+        "exchangeable_item_id": null,
+        "exp": 30000000,
+        "id": 751876841,
+        "is_favorite": true,
+        "is_released_potential": true,
+        "link_skill_lvs": [
+            {
+                "id": 118,
+                "skill_lv": 6
+            },
+            {
+                "id": 103,
+                "skill_lv": 7
+            },
+            {
+                "id": 125,
+                "skill_lv": 7
+            },
+            {
+                "id": 70,
+                "skill_lv": 6
+            },
+            {
+                "id": 112,
+                "skill_lv": 5
+            },
+            {
+                "id": 97,
+                "skill_lv": 7
+            },
+            {
+                "id": 29,
+                "skill_lv": 5
+            }
+        ],
+        "optimal_awakening_step": 3,
+        "potential_parameters": [
+            {
+                "parameter_type": "Hp",
+                "total_value": 5000
+            },
+            {
+                "parameter_type": "Atk",
+                "total_value": 5400
+            },
+            {
+                "parameter_type": "Defense",
+                "total_value": 4600
+            },
+            {
+                "parameter_id": 1,
+                "parameter_type": "Skill",
+                "total_value": 12
+            },
+            {
+                "parameter_id": 2,
+                "parameter_type": "Skill",
+                "total_value": 14
+            },
+            {
+                "parameter_id": 3,
+                "parameter_type": "Skill",
+                "total_value": 0
+            },
+            {
+                "parameter_id": 4,
+                "parameter_type": "Skill",
+                "total_value": 10
+            },
+            {
+                "parameter_id": 5,
+                "parameter_type": "Skill",
+                "total_value": 10
+            },
+            {
+                "parameter_id": 6,
+                "parameter_type": "Skill",
+                "total_value": 15
+            },
+            {
+                "parameter_id": 7,
+                "parameter_type": "Skill",
+                "total_value": 15
+            }
+        ],
+        "released_rate": 100,
+        "skill_lv": 25,
+        "unlocked_square_statuses": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "support_user_card_id": 751876841
+}

@@ -1,0 +1,19 @@
+{
+    "Method": "GET",
+    "Path": "/quests/244008/briefing?difficulty=2&team_num=128",
+    "Vers": "HTTP/1.1",
+    "Host": "ishin-production.aktsk.jp:443",
+    "X-DatabaseVersion": "////",
+    "Accept": "*/*",
+    "Authorization": "MAC id=\"HMIvoadgRDjFMkrt9m4DrkOugybto5ei9cgsmptWXe5g/0uRrJT6U6RmUN4yRoYiMclGQGKh7+KxwNkfZfkyTA==\", nonce=\"1676923698:614ff4f4974a719fe938f12495aafb18\", ts=\"1676923698\", mac=\"qI7jBKPMjx/lgLskH+ark91FO+UOaHHkjaQHLNGHYV0=\"",
+    "X-ClientVersion": "5.9.2-3207d9e3fa7144760c5af78cf13eba99cd33292bb348ac9128ddadec5dc0d041",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Accept-Language": "en-us",
+    "Content-Type": "application/json",
+    "X-AssetVersion": "////",
+    "User-Agent": "BNGI0211/165.0 CFNetwork/1121.2.2 Darwin/19.3.0",
+    "X-Platform": "ios",
+    "Connection": "keep-alive",
+    "X-RequestVersion": "15"
+}
